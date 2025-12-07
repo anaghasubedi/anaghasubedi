@@ -7,7 +7,6 @@ I’m a passionate **Web Developer** and **Cybersecurity Enthusiast** with a gro
 - 💬 Pronouns: **she/her**  
 - 📫 Reach me via email: [subedianagha13@gmail.com](mailto:subedianagha13@gmail.com)
 
-## 💻 Tech Stack
 
 ## 💻 Tech Stack
 
