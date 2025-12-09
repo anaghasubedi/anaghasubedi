@@ -1,10 +1,8 @@
 # Hi, I’m Anagha Subedi 👋
 
-I’m a passionate **Web Developer** and **Cybersecurity Enthusiast** with a growing interest in **AI/ML** and **Data Science**.
 
-- 👀 I’m interested in **Web Development**, **Cybersecurity**, **AI/ML**, and **Data Science**  
+- 👀 I’m interested in **Cross-platform Developement** **AI/ML**, and **Data Science**  
 - 🌱 I’m currently learning **Django** and **Flutter**  
-- 💬 Pronouns: **she/her**  
 - 📫 Reach me via email: [subedianagha13@gmail.com](mailto:subedianagha13@gmail.com)
 
 
