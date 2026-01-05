@@ -70,8 +70,6 @@ learning_path = {
   
 ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=anaghasubedi&color=blueviolet&style=for-the-badge)
-
 </div>
 
 <!---
