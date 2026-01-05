@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Cross-Platform Developer | AI/ML Enthusiast 
+### 🚀 Cross-Platform Developer | AI/ML
 
 [![Email](https://img.shields.io/badge/Email-subedianagha13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subedianagha13@gmail.com)
 
