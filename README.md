@@ -1,7 +1,13 @@
 # Hi there, I'm Anagha Subedi. 👋
+
 <div align="center">
-A Computer Science Student trying hands in different aspects of the field.
-[![Email](https://img.shields.io/badge/Email-subedianagha13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subedianagha13@gmail.com)
+  <p>
+    A Computer Science Student trying hands in different aspects of the field.
+  </p>
+
+  <a href="mailto:subedianagha13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-subedianagha13%40gmail.com-f8b4d9?style=for-the-badge&logo=gmail&labelColor=ffc0cb&logoColor=white&color=ff69b4" />
+  </a>
 </div>
 
 ---
