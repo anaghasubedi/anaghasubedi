@@ -1,24 +1,17 @@
 # Hi there, I'm Anagha Subedi. 👋
-
 <div align="center">
-
 A Computer Science Student trying hands in different aspects of the field.
-
 [![Email](https://img.shields.io/badge/Email-subedianagha13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subedianagha13@gmail.com)
-
 </div>
 
 ---
-
 ## 👨‍💻 About Me
-
 - 🔭 Passionate about building **cross-platform applications** that work seamlessly everywhere
 - 🤖 Exploring the fascinating world of **AI/ML** and **Data Science**
 - 🌱 Currently mastering **Django** for robust backend development and **Flutter** for beautiful mobile experiences
 - 💡 Always eager to learn new technologies and solve challenging problems
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -32,6 +25,9 @@ A Computer Science Student trying hands in different aspects of the field.
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -49,9 +45,7 @@ A Computer Science Student trying hands in different aspects of the field.
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
 ## 📚 Currently Learning
-
 ```python
 learning_path = {
     "Backend": ["Django", "Django REST Framework"],
@@ -61,15 +55,10 @@ learning_path = {
 ```
 
 ---
-
-
 ---
-
-
 <div align="center">
   
 ### 💭 "Walking on water and developing software from a specification are easy if both are frozen." – Edward V. Berard
-
 </div>
 
 <!---
